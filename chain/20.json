@@ -1,0 +1,10 @@
+{
+  "sequence": 20,
+  "gc_hash": "2577C941096FC2A9A272E2591EE624B5C6CC9DCFB838DC370E4D471C5C247CE0",
+  "ic_hash": "f5210faa9d4a78abb5bf51e7e5d677f9b095c1aa8d59c5db61504cc9652a29d0",
+  "previous_gc": "6350BD85F9A54B96D43A53A1CB1BFA2132776F3430B3C2D6B511E08264D549A4",
+  "invoice_ref": "2025000014",
+  "timestamp": "2025-12-24T08:59:39.36+00:00",
+  "hash_version": 4,
+  "status": "invoice"
+}
