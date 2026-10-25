@@ -1,0 +1,10 @@
+{
+  "sequence": 1,
+  "gc_hash": "DC2CEACC6E3469A4DC2D88EAEFFB0A46AEDF584F588FC38EFAB56F1590D464F8",
+  "ic_hash": "AA277461744B56416E9A02EB06324CD983A426DAE6757F089111FF3CC6D3BC57",
+  "previous_gc": "GENESIS",
+  "invoice_ref": "B242025043",
+  "timestamp": "2025-12-08T18:48:23.747+00:00",
+  "hash_version": 4,
+  "status": "invoice"
+}
