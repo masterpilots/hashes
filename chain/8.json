@@ -1,0 +1,10 @@
+{
+  "sequence": 8,
+  "gc_hash": "C5677E24BE6226346516FC6855CA0234A3B45FF8E39D6276EE7B9777FFA8EEB9",
+  "ic_hash": "48ce48d04ada363ed81a2f2d854d865f28b8ced9d4f14d63504eab1b09d4f394",
+  "previous_gc": "D015DF192E81E22D008327DA327F77DA01712A3B320D93B369EBB278AC719540",
+  "invoice_ref": "RECT/B24000001",
+  "timestamp": "2025-12-12T23:53:49.603+00:00",
+  "hash_version": 4,
+  "status": "invoice"
+}
